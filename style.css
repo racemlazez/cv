@@ -1,0 +1,31 @@
+body {
+    background-image: url(dark-wood.png);
+    background-size: cover;
+}
+
+#img1 {
+    border-radius: 10%;
+    position: relative;
+    float: left;
+}
+
+.pg {
+    color: green;
+    font-size: large;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 450;
+    position: relative;
+    float: right;
+}
+
+.iit {
+    text-decoration: none;
+    color: greenyellow;
+}
+
+.E {
+    text-decoration: none;
+    color: greenyellow;
+    float: left;
+}
